@@ -1302,9 +1302,18 @@
   "layer1Fees": {
     "message": "Layer 1 fees"
   },
+<<<<<<< HEAD
+<<<<<<< HEAD
   "learmMore": {
     "message": "learn more"
   },
+=======
+>>>>>>> 57ad79b8f (Adding network status section on edit gas fee modal)
+=======
+  "learmMore": {
+    "message": "learn more"
+  },
+>>>>>>> 8a267d498 (Adding network status section on edit gas fee modal)
   "learmMoreAboutGas": {
     "message": "Want to $1 about gas?"
   },
